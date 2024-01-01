@@ -16,7 +16,7 @@
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd mern-with-googlesheet-server
 
 # Install dependencies
 $ npm install
