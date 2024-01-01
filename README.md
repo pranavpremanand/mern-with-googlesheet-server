@@ -21,6 +21,8 @@ $ cd mern-with-googlesheet-server
 # Install dependencies
 $ npm install
 
+# Setup the necessary environment variables
+
 # Run the app
 $ npm start
 ```
