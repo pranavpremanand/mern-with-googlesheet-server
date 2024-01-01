@@ -13,7 +13,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://pranavpremanand/mern-with-googlesheet-server
 
 # Go into the repository
 $ cd mern-with-googlesheet-server
